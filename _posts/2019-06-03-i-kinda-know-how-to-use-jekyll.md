@@ -8,3 +8,5 @@ after being advised to start a blog while learning data analysis from this inter
 https://www.youtube.com/watch?v=eTxyviU0Ddo
 
 ...so i need to learn how to instert a link...
+
+TESTINGTESTINGTESTING
